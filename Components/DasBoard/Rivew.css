@@ -1,0 +1,13 @@
+
+.div {
+    overflow-x: auto; /* Enable overflow on smaller screens */
+    white-space:wrap; /* Prevent wrapping */
+  }
+
+@media screen and (min-width: 768px),(min-width: 1008px){
+    .div {
+      overflow-x: auto; /* Enable overflow on smaller screens */
+    }
+  }
+  
+     

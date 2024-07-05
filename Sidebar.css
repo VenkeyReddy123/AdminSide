@@ -1,0 +1,22 @@
+.sidebar {
+    width: 50px;
+    height: 100vh;
+    background-color: white;
+    transition: width 0.3s;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  .sidebar.expanded {
+    width: 250px;
+  }
+
+
+  .Hov:hover{
+    background-color:yellow;
+    color:red;
+    font-weight:bolder;
+    padding:5px;
+    border-radius:15px;
+  }

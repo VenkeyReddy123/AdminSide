@@ -1,0 +1,8 @@
+.btn1:hover{
+    background:black;
+    border-radius:100%;
+    text-align: center;
+}
+.btn1{
+    width: max-content;
+}
